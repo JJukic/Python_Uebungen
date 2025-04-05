@@ -15,4 +15,4 @@ Dies ist mein persönliches Übungsprojekt für Python, aufgebaut mit PyCharm au
 
 ---
 
-_Projekt von [Jjukic](https://github.com/Jjukic)_
+_Projekt von [JJukic](https://github.com/JJukic)_
