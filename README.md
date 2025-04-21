@@ -8,9 +8,12 @@ Dies ist mein persönliches Übungsprojekt für Python, aufgebaut mit PyCharm au
 
 - 🛒 **Einkaufsliste** mit Menü (input, listen, append, enumerate)
 - 🚘 **Auto-Klasse mit Konstruktor** inkl. Benutzerinteraktion & Fehlerbehandlung (`try`/`except`)
+- 🏨 **Hotelverwaltungssystem** mit:
+  - Klassen: `Gast`, `Zimmer`, `Buchung`
+  - Funktionen: Hinzufügen, Bearbeiten, Löschen, Anzeigen
+  - Menüführung & Validierung
 - ✅ Erste Commits mit Git
 - ☁️ Upload zu GitHub via Terminal
-
 ---
 
 ## 📦 To-Do:
