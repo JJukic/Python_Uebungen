@@ -7,6 +7,7 @@ Dies ist mein persönliches Übungsprojekt für Python, aufgebaut mit PyCharm au
 ## ✅ Bisher umgesetzt:
 
 - 🛒 **Einkaufsliste** mit Menü (input, listen, append, enumerate)
+-    **Todo -Manager** für Aufgaben erstellt
 - 🚘 **Auto-Klasse mit Konstruktor** inkl. Benutzerinteraktion & Fehlerbehandlung (`try`/`except`)
 - 🏨 **Hotelverwaltungssystem** mit:
   - Klassen: `Gast`, `Zimmer`, `Buchung`
